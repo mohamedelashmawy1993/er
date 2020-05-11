@@ -1,10 +1,334 @@
 [
   {
-    "title": "قريباً",
-    "season": "",
-    "urlImgLogo": "",
-    "urlImgCover": "",
-    "urlVideo": "",
+    "title": "قيامة أرطغرل الحلقه 27",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er27.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 28",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er28.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 29",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er29.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 30",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er30.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 31",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er31.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 32",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er32.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 33",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er33.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 34",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er34.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 35",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er35.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 36",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er36.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 37",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er37.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 38",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er38.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 39",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er39.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 40",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er40.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 41",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er41.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 42",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er42.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 43",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er43.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 44",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er44.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 45",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er45.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 46",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er46.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 45",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er45.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 46",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er46.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 47",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er47.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 48",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er48.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 49",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er49.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 50",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er50.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 51",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er51.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 52",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er52.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 53",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er53.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 54",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er54.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 55",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er55.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 56",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er56.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 57",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er57.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 58",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er58.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 59",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er59.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 60",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er60.mp4",
+    "newVersion": "1.0.3",
+    "urlNewVersion": ""
+  },
+  {
+    "title": "قيامة أرطغرل الحلقه 61",
+    "season": "الموسم 5",
+    "urlImgLogo": "https://1.bp.blogspot.com/-H0nvfIuWo4w/Xqb8-hvW9yI/AAAAAAAAAyk/2uolaYjOeUYi9tHVG9w1-TGt-88Mi8fpwCLcBGAsYHQ/s200/er2.png",
+    "urlImgCover": "https://1.bp.blogspot.com/-z7GSqaTX9kk/XrknVj6KZ1I/AAAAAAAAA0E/-MQjhmaQnsUfaP7CCrV_MRuvmZZhSRywQCLcBGAsYHQ/s320/urlImgCover.png",
+    "urlVideo": "https://archive.org/download/ms_series_er/er61.mp4",
     "newVersion": "1.0.3",
     "urlNewVersion": ""
   }
