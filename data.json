@@ -3,8 +3,8 @@
     "title": "",
     "season": "",
     "urlImgLogo": "",
-    "urlImgCover": "<iframe height='500' id='iframeId' src='https://apptest2020.blogspot.com/' width='800'/>",
-    "urlVideo": "<iframe height='500' id='iframeId' src='https://apptest2020.blogspot.com/' width='800'/>",
+    "urlImgCover": "<iframe height='100%' id='iframeId' src='https://apptest2020.blogspot.com/' width='100%'/>",
+    "urlVideo": "",
     "newVersion": "1.0.3",
     "urlNewVersion": ""
   },
