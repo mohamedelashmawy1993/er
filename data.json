@@ -3,7 +3,7 @@
     "title": "",
     "season": "",
     "urlImgLogo": "",
-    "urlImgCover": "<link rel='stylesheet' type='text/css' href='https://raw.githubusercontent.com/mohamedelashmawy1993/css/css0/style.css'/><iframe id='iframeId' src='https://apptest2020.blogspot.com/'/>",
+    "urlImgCover": "<iframe src='https://apptest2020.blogspot.com/' frameborder='0' height='100%' width='100%' style='overflow:hidden;height:100vh;width:100vw'/>",
     "urlVideo": "",
     "newVersion": "1.0.3",
     "urlNewVersion": ""
